@@ -1,0 +1,2 @@
+Nombre: James Coslin / Dni:32000032G / Sexo: M / Categoria: 9 / Anyos: 7
+Nombre: Ada Lovelace / Dni:32000031R / Sexo: F / Categoria: 1 / Anyos: 1
